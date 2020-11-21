@@ -2,31 +2,28 @@
   
   ## Application Description
   ![license-badge](https://img.shields.io/badge/License-MIT-blue.svg)
-  This application was built using React with data from the Random User API. It is designed to make it easy to search for employees by name or email using the search bar. The data pulled from the api is put together in a table that includes a picture, name, DOB, email and phone number of each employee.
+  
+  This application was built using React with data from the Random User API. It is designed to allow users to search through a database of employees using a search bar, sorting by age, or alphabetically by name. The data pulled from the api is collected into a table that includes the employee's picture, name, birthday,phone number and email address.
+  
+  <img width="1241" alt="Screen Shot 2020-11-21 at 5 21 46 PM" src="https://user-images.githubusercontent.com/40651335/99888873-0f2a3f00-2c1e-11eb-9420-1726d7848f68.png">
+
 
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contribution-guidelines)
-  * [Test](#tests)
   * [Questions](#questions)
-  * 
+  
   ## Installation
   Run the following to install necessary packages:
   npm i 
-
-  ## Usage
-  Free
+  Run 'npm start' to launch the application.
 
   ## License
   MIT
 
   ## Contribution Guidelines
   Branch and push 
-
-  ## Tests
-  run 'npm test'
 
   ## Questions
   To see more of my work view my GitHub profile: [https://github.com/courtneypaasch/](https://github.com/courtneypaasch/).
